@@ -8,14 +8,12 @@ body{
 *{
     margin: 0px; padding: 0px; font-family: 'Montserrat', sans-serif;
  }
-.main{
+ .main{
     background-color: white;
     height: auto;
     width: 650px;
     position: absolute;
     transform: translate(-50%, -50);
-    left: 50%;
-    top: 50%;
  }
 .left{
     background-color: #fbb03b;
